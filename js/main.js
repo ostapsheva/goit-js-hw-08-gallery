@@ -1,3 +1,3 @@
-import { Default } from "./js/gallery-items.js";
+import Default from "./gallery-items.js";
 
 console.log(Default);
